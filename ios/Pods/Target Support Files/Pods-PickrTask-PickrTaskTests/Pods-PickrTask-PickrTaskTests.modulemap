@@ -1,0 +1,6 @@
+module Pods_PickrTask_PickrTaskTests {
+  umbrella header "Pods-PickrTask-PickrTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

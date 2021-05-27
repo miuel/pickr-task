@@ -1,0 +1,14 @@
+com/pickrtask/ReactNativeFlipper.java
+ com.pickrtask.ReactNativeFlipper
+ com.pickrtask.ReactNativeFlipper$1
+ com.pickrtask.ReactNativeFlipper$2
+ com.pickrtask.ReactNativeFlipper$2$1
+com/pickrtask/MainActivity.java
+ com.pickrtask.MainActivity
+com/pickrtask/BuildConfig.java
+ com.pickrtask.BuildConfig
+com/pickrtask/MainApplication.java
+ com.pickrtask.MainApplication
+ com.pickrtask.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
