@@ -1,29 +1,22 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+READ this documentation to get the application up and running.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Pickr Task
+* Version 1.0.0
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### How do I set up the app? ###
 
-### Contribution guidelines ###
+* clone the repository then:
+* npm install
+* Running your React Native application
+* Step 1: Start Metro
+* npx react-native start
+* Step 2: Start your application
+* npx react-native run-android 
+* npx react-native run-ios
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Created by Miguel Rivas - rivasmig@gmail.com
